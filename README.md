@@ -121,8 +121,8 @@ sistema-monitoramento-industrial/
 
 ### 1. Clonagem do Repositório
 ```bash
-git clone https://github.com/usuario/sistema-monitoramento-industrial.git
-cd sistema-monitoramento-industrial
+git clone https://github.com/rafa-smaciel/PES-MAS.git
+cd PES-MAS
 ```
 
 ### 2. Configuração do Backend
