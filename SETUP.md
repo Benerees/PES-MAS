@@ -26,8 +26,8 @@ git --version      # qualquer versão recente
 ### 1. Clonagem do Repositório
 ```bash
 # Clonar o projeto
-git clone https://github.com/usuario/sistema-monitoramento-industrial.git
-cd sistema-monitoramento-industrial
+git clone https://github.com/rafa-smaciel/PES-MAS.git
+cd PES-MAS
 
 # Verificar estrutura do projeto
 ls -la
